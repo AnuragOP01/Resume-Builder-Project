@@ -1,0 +1,7 @@
+.box{
+    height: 100%;
+}
+
+.container{
+    overflow-x: none;
+}
